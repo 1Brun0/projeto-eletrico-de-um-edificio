@@ -59,14 +59,21 @@ Word – Documentação e formatação do relatório técnico
 Bruno Henrique de Oliveira
 
 🏫 Instituição
+
 Centro Universitário Hermínio Ometto – Araras/SP
+
 Curso: Engenharia Elétrica
+
 Período de entrega: Julho de 2025
 
 ⚠️ Restrições de Uso
+
 Este projeto tem finalidade exclusivamente acadêmica e didática. Não deve ser utilizado em instalações reais sem análise técnica e validação por profissional habilitado. Uso comercial é proibido sem autorização expressa do autor.
 
 ✉️ Contato
+
 Bruno Henrique de Oliveira
+
 brunhenriq17@gmail.com
+
 https://www.linkedin.com/in/bruno-henriq/
