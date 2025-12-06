@@ -46,9 +46,10 @@ AutoCAD – Elaboração do diagrama unifilar
 
 Dialux – Simulação luminotécnica para ambientes residenciais
 
-Word – Documentação e formatação do relatório técnico
+PDF – Documentação e formatação do relatório técnico
 
 👤 Autor Bruno Henrique de Oliveira See More
+👤 Orientador Daniel Augusto Pagi Ferreira
 🏫 Instituição
 Centro Universitário Hermínio Ometto – Araras/SP Curso: Engenharia Elétrica
 
