@@ -62,7 +62,9 @@ PDF – Documentação e formatação do relatório técnico
 
 🏫 Instituição
 
-Centro Universitário Hermínio Ometto – Araras/SP Curso: Engenharia Elétrica
+Centro Universitário Hermínio Ometto – Araras/SP 
+
+Curso: Engenharia Elétrica
 
 ⚠️Restrições de Uso
 
