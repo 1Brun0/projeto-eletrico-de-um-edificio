@@ -56,9 +56,11 @@ PDF – Documentação e formatação do relatório técnico
 Centro Universitário Hermínio Ometto – Araras/SP Curso: Engenharia Elétrica
 
 ⚠️Restrições de Uso
+
 Este projeto tem caráter exclusivamente acadêmico e didático. Não deve ser utilizado em instalações reais sem análise técnica e validação por profissional habilitado. O uso comercial é proibido sem autorização expressa do autor.
 
 ✉️ Contato
+
 Bruno Henrique de Oliveira
 
 brunhenriq17@gmail.com
