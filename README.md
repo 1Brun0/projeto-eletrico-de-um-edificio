@@ -48,8 +48,8 @@ Dialux – Simulação luminotécnica para ambientes residenciais
 
 PDF – Documentação e formatação do relatório técnico
 
-👤 Autor Bruno Henrique de Oliveira See More
-👤 Orientador Daniel Augusto Pagi Ferreira See more
+👤 Autor Bruno Henrique de Oliveira 
+👤 Orientador Daniel Augusto Pagi Ferreira 
 🏫 Instituição
 Centro Universitário Hermínio Ometto – Araras/SP Curso: Engenharia Elétrica
 
